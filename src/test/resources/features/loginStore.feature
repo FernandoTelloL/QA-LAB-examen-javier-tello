@@ -17,4 +17,5 @@ Característica: Product - Store
     Ejemplos:
       | email | password | category | subcategory|
       |fernando_tellol@hotmail.com|paolaxD123|Clothes|Men|
-      |usuarioequivocado@hotmail.com|12345678@A|Shoes|Other|
+      |usuarioequivocado@hotmail.com|paolaxD123@A|Shoes|Other|
+      |fernando_tellol@hotmail.com|paolaxD123456789|Clothes|Men|
